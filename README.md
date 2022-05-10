@@ -6,4 +6,4 @@ I'm a software developer and culture enthusiast
 
 👩‍🎓 researching on digitalisation in science, culture and education [(see my publications @ ORCID)](https://orcid.org/my-orcid?orcid=0000-0002-0627-8199)
 
-**Latest app: [Macarons. A chat roulette app for slack.](https://macarons-roulette.app)
+**Latest app: [Macarons. A chat roulette app for slack.](https://macarons-roulette.app)**
