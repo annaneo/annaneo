@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer and culture enthusiast 
+I'm a software developer and culture enthusiast.
 
 👩‍💻 developing iOS and macOS Apps with Swift, SwiftUI @ [Coding Friends](https://www.coding-friends.com/)
 
