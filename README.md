@@ -9,6 +9,6 @@ I'm a software developer and digitalization expert.
 👩‍🎓 My PhD thesis on search behavior and digital literacy of historians: [DOI: 10.26083/tuprints-00024071](https://tuprints.ulb.tu-darmstadt.de/24071)
 
 
-   Part of [Apple Entrepreneur Camp 2023](https://developer.apple.com/entrepreneur-camp/alumni/)
+ 👩‍💼 Part of   [Apple Entrepreneur Camp 2023](https://developer.apple.com/entrepreneur-camp/alumni/)
 
 **Latest app: [Macarons. A chat roulette app for slack.](https://macarons-roulette.app)**
