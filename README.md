@@ -4,7 +4,7 @@ I'm a software developer and digitalization expert.
 
 👩‍💻 Developing iOS and macOS Apps with Swift, SwiftUI @ [Coding Friends](https://www.coding-friends.com/)
 
- Part of [Apple Entrepreneur Camp 2023](https://developer.apple.com/entrepreneur-camp/alumni/)
+  Part of [Apple Entrepreneur Camp 2023](https://developer.apple.com/entrepreneur-camp/alumni/)
 
 👩‍🔬 Researching on digitalization in science, culture and education [(see my publications @ ORCID)](https://orcid.org/my-orcid?orcid=0000-0002-0627-8199)
 
