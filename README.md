@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer and digitization expert.
+I'm a software developer and historian.
 
 👩‍💻 Developing iOS and macOS Apps with Swift, SwiftUI @ [Coding Friends](https://www.coding-friends.com/)
 
